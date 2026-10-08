@@ -1,6 +1,6 @@
 {
   "dealership": "Three Point Motors",
-  "generated_at": "2026-09-26T12:03:47",
+  "generated_at": "2026-10-08T14:53:21",
   "vehicle_count": 77,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -19,7 +19,9 @@
       "year": 2013,
       "make": "Jaguar",
       "model": "XKR",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2014 Toyota RAV4 ",
@@ -34,7 +36,9 @@
       "year": 2014,
       "make": "Toyota",
       "model": "RAV4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2017 Lexus NX ",
@@ -50,7 +54,9 @@
       "year": 2017,
       "make": "Lexus",
       "model": "NX",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2017 Mercedes-Benz S 600 4matic Coupe |lowin Victoria",
@@ -67,7 +73,9 @@
       "year": 2017,
       "make": "Mercedes-Benz",
       "model": "S 600 4matic Coupe",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2018 Audi Q5 ",
@@ -83,7 +91,9 @@
       "year": 2018,
       "make": "Audi",
       "model": "Q5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2018 Mercedes-Benz C 300 4matic Sedanin Victoria",
@@ -100,13 +110,16 @@
       "year": 2018,
       "make": "Mercedes-Benz",
       "model": "C 300 4matic Sedanin Victoria",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2019 Mercedes-Benz GLC 300 4matic Suv |premiumin Victoria",
       "vin": "WDC0G4KB1KV139023",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "300 4matic Suv",
       "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/used/a2b5368aeb91.html",
       "source_url": "https://www.mercedes-benz-threepointmotors.ca/used/2019-Mercedes_Benz-GLC_300-id14435955.html",
       "dealer_url": "https://www.mercedes-benz-threepointmotors.ca/used/2019-Mercedes_Benz-GLC_300-id14435955.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -116,8 +129,10 @@
       "odometer_km": 79812,
       "year": 2019,
       "make": "Mercedes-Benz",
-      "model": "GLC 300 4matic Suv",
-      "condition": "used"
+      "model": "GLC",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2021 Jeep Wrangler ",
@@ -132,13 +147,16 @@
       "year": 2021,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2021 Mercedes-Benz Sprinter 2500 Cargoin Victoria",
       "vin": "W1Y4ECHYXMP408965",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "2500 Cargo",
       "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/used/035254331fab.html",
       "source_url": "https://www.mercedes-benz-threepointmotors.ca/used/2021-Mercedes_Benz-Sprinter_2500_Cargo-id14423865.html",
       "dealer_url": "https://www.mercedes-benz-threepointmotors.ca/used/2021-Mercedes_Benz-Sprinter_2500_Cargo-id14423865.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -148,8 +166,10 @@
       "odometer_km": 53530,
       "year": 2021,
       "make": "Mercedes-Benz",
-      "model": "Sprinter 2500 Cargoin Victoria",
-      "condition": "used"
+      "model": "Sprinter",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2021 RAM 1500 ",
@@ -165,7 +185,9 @@
       "year": 2021,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2022 Infiniti QX60 ",
@@ -180,7 +202,9 @@
       "year": 2022,
       "make": "Infiniti",
       "model": "QX60",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2022 Mercedes-Benz A 35 AMG 4matic Hatch |bcin Victoria",
@@ -197,13 +221,16 @@
       "year": 2022,
       "make": "Mercedes-Benz",
       "model": "A 35 AMG 4matic Hatch",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2022 Mercedes-Benz CLA 45 AMG 4matic+ Coupein Victoria",
       "vin": "W1K5J5DB9NN281999",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "45 AMG 4matic+ Coupe",
       "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/used/00f2bb2f7039.html",
       "source_url": "https://www.mercedes-benz-threepointmotors.ca/used/2022-Mercedes_Benz-CLA_45_AMG-id13841874.html",
       "dealer_url": "https://www.mercedes-benz-threepointmotors.ca/used/2022-Mercedes_Benz-CLA_45_AMG-id13841874.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -213,8 +240,10 @@
       "odometer_km": 50109,
       "year": 2022,
       "make": "Mercedes-Benz",
-      "model": "CLA 45 AMG 4matic+ Coupein Victoria",
-      "condition": "used"
+      "model": "CLA",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2022 Mercedes-Benz C 300 4matic Sedan |onein Victoria",
@@ -231,12 +260,15 @@
       "year": 2022,
       "make": "Mercedes-Benz",
       "model": "C 300 4matic Sedan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2022 Mercedes-Benz GLB 250 4matic Suv Awdin Victoria",
       "vin": "W1N4M4HB5NW192287",
       "stock": "NUMBER",
+      "trim": "250 4matic Suv",
       "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/used/1f6c9e90a5e6.html",
       "source_url": "https://www.mercedes-benz-threepointmotors.ca/used/2022-Mercedes_Benz-GLB_250-id14031677.html",
       "dealer_url": "https://www.mercedes-benz-threepointmotors.ca/used/2022-Mercedes_Benz-GLB_250-id14031677.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -246,14 +278,17 @@
       "odometer_km": 61381,
       "year": 2022,
       "make": "Mercedes-Benz",
-      "model": "GLB 250 4matic Suv Awdin Victoria",
-      "condition": "used"
+      "model": "GLB",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2022 Mercedes-Benz GLC 300 4matic Suv Awdin Victoria",
       "vin": "W1N0G8EB2NG068683",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "300 4matic Suv",
       "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/used/e21b886df888.html",
       "source_url": "https://www.mercedes-benz-threepointmotors.ca/used/2022-Mercedes_Benz-GLC_300-id14308437.html",
       "dealer_url": "https://www.mercedes-benz-threepointmotors.ca/used/2022-Mercedes_Benz-GLC_300-id14308437.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -263,14 +298,17 @@
       "odometer_km": 41441,
       "year": 2022,
       "make": "Mercedes-Benz",
-      "model": "GLC 300 4matic Suv Awdin Victoria",
-      "condition": "used"
+      "model": "GLC",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2022 Mercedes-Benz Sprinter One Localin Victoria",
       "vin": "W1Y4ECVY8NP452291",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "One Local",
       "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/used/bcefb0428622.html",
       "source_url": "https://www.mercedes-benz-threepointmotors.ca/used/2022-Mercedes_Benz-Sprinter-id13808908.html",
       "dealer_url": "https://www.mercedes-benz-threepointmotors.ca/used/2022-Mercedes_Benz-Sprinter-id13808908.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -280,8 +318,10 @@
       "odometer_km": 135000,
       "year": 2022,
       "make": "Mercedes-Benz",
-      "model": "Sprinter One Localin Victoria",
-      "condition": "used"
+      "model": "Sprinter",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2023 Ford F-150 ",
@@ -296,7 +336,9 @@
       "year": 2023,
       "make": "Ford",
       "model": "F-150",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2023 GMC Yukon ",
@@ -312,13 +354,16 @@
       "year": 2023,
       "make": "GMC",
       "model": "Yukon",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2023 Mercedes-Benz EQS 580 SUVin Victoria",
       "vin": "4JGDM4EB4PA001577",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "580 SUV",
       "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/used/3a2e59421be3.html",
       "source_url": "https://www.mercedes-benz-threepointmotors.ca/used/2023-Mercedes_Benz-EQS_580-id14423864.html",
       "dealer_url": "https://www.mercedes-benz-threepointmotors.ca/used/2023-Mercedes_Benz-EQS_580-id14423864.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -328,14 +373,17 @@
       "odometer_km": 44234,
       "year": 2023,
       "make": "Mercedes-Benz",
-      "model": "EQS 580 SUVin Victoria",
-      "condition": "used"
+      "model": "EQS",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2023 Mercedes-Benz GLC 43 AMG 4matic Coupe Awdin Victoria",
       "vin": "W1N0J6EB8PG128393",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "43 AMG 4matic Coupe",
       "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/used/27386e599511.html",
       "source_url": "https://www.mercedes-benz-threepointmotors.ca/used/2023-Mercedes_Benz-GLC_43_AMG-id13908657.html",
       "dealer_url": "https://www.mercedes-benz-threepointmotors.ca/used/2023-Mercedes_Benz-GLC_43_AMG-id13908657.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -345,8 +393,10 @@
       "odometer_km": 35488,
       "year": 2023,
       "make": "Mercedes-Benz",
-      "model": "GLC 43 AMG 4matic Coupe Awdin Victoria",
-      "condition": "used"
+      "model": "GLC",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2024 Ford Mustang ",
@@ -362,12 +412,15 @@
       "year": 2024,
       "make": "Ford",
       "model": "Mustang",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2024 Mercedes-Benz EQE 4matic Suvin Victoria",
       "vin": "4JGGM1CB8RA051769",
       "stock": "NUMBER",
+      "trim": "4matic Suv",
       "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/used/13d0e6905a05.html",
       "source_url": "https://www.mercedes-benz-threepointmotors.ca/used/2024-Mercedes_Benz-EQE-id14016416.html",
       "dealer_url": "https://www.mercedes-benz-threepointmotors.ca/used/2024-Mercedes_Benz-EQE-id14016416.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -377,13 +430,16 @@
       "odometer_km": 18757,
       "year": 2024,
       "make": "Mercedes-Benz",
-      "model": "EQE 4matic Suvin Victoria",
-      "condition": "used"
+      "model": "EQE",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2024 Mercedes-Benz GLC 300 4matic Suv |bc Localin Victoria",
       "vin": "W1NKM4HB0RF082731",
       "stock": "NUMBER",
+      "trim": "300 4matic Suv",
       "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/used/e4e8bb0bd385.html",
       "source_url": "https://www.mercedes-benz-threepointmotors.ca/used/2024-Mercedes_Benz-GLC_300-id14051305.html",
       "dealer_url": "https://www.mercedes-benz-threepointmotors.ca/used/2024-Mercedes_Benz-GLC_300-id14051305.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -393,13 +449,16 @@
       "odometer_km": 21800,
       "year": 2024,
       "make": "Mercedes-Benz",
-      "model": "GLC 300 4matic Suv",
-      "condition": "used"
+      "model": "GLC",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2024 Mercedes-Benz GLE 350 4matic Suv Awdin Victoria",
       "vin": "4JGFB4FBXRA993952",
       "stock": "NUMBER",
+      "trim": "350 4matic Suv",
       "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/used/70ac94761166.html",
       "source_url": "https://www.mercedes-benz-threepointmotors.ca/used/2024-Mercedes_Benz-GLE_350-id13996768.html",
       "dealer_url": "https://www.mercedes-benz-threepointmotors.ca/used/2024-Mercedes_Benz-GLE_350-id13996768.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -409,14 +468,17 @@
       "odometer_km": 51722,
       "year": 2024,
       "make": "Mercedes-Benz",
-      "model": "GLE 350 4matic Suv Awdin Victoria",
-      "condition": "used"
+      "model": "GLE",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2024 Mercedes-Benz GLE 53 4matic+ Coupe Awdin Victoria",
       "vin": "4JGFD6BB6RB003949",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "53 4matic+ Coupe",
       "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/used/8b3c2609e65a.html",
       "source_url": "https://www.mercedes-benz-threepointmotors.ca/used/2024-Mercedes_Benz-GLE_53-id14246206.html",
       "dealer_url": "https://www.mercedes-benz-threepointmotors.ca/used/2024-Mercedes_Benz-GLE_53-id14246206.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -426,14 +488,17 @@
       "odometer_km": 29538,
       "year": 2024,
       "make": "Mercedes-Benz",
-      "model": "GLE 53 4matic+ Coupe Awdin Victoria",
-      "condition": "used"
+      "model": "GLE",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2024 Mercedes-Benz GLS 450 4matic Suv Awdin Victoria",
       "vin": "4JGFF5KE9RB033364",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "450 4matic Suv",
       "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/used/a1aced375efa.html",
       "source_url": "https://www.mercedes-benz-threepointmotors.ca/used/2024-Mercedes_Benz-GLS_450-id13782511.html",
       "dealer_url": "https://www.mercedes-benz-threepointmotors.ca/used/2024-Mercedes_Benz-GLS_450-id13782511.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -443,13 +508,16 @@
       "odometer_km": 98893,
       "year": 2024,
       "make": "Mercedes-Benz",
-      "model": "GLS 450 4matic Suv Awdin Victoria",
-      "condition": "used"
+      "model": "GLS",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2024 Mercedes-Benz Sprinter Cargo Van 2500 High Roof I4in Victoria",
       "vin": "W1Y4NCHY5RP654278",
       "stock": "NUMBER",
+      "trim": "Van 2500 High Roof I4",
       "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/used/b96f2e61450b.html",
       "source_url": "https://www.mercedes-benz-threepointmotors.ca/used/2024-Mercedes_Benz-Sprinter_Cargo_Van-id13808907.html",
       "dealer_url": "https://www.mercedes-benz-threepointmotors.ca/used/2024-Mercedes_Benz-Sprinter_Cargo_Van-id13808907.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -459,8 +527,10 @@
       "odometer_km": 69735,
       "year": 2024,
       "make": "Mercedes-Benz",
-      "model": "Sprinter Cargo Van 2500 High Roof I4in Victoria",
-      "condition": "used"
+      "model": "Sprinter",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2025 Ford Bronco Sport ",
@@ -476,7 +546,9 @@
       "year": 2025,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2025 GMC Sierra 1500 ",
@@ -492,13 +564,16 @@
       "year": 2025,
       "make": "GMC",
       "model": "Sierra 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2025 Mercedes-Benz CLA 250 4matic Coupein Victoria",
       "vin": "W1K5J4HB8SN506350",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "250 4matic Coupe",
       "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/used/3e228fe41589.html",
       "source_url": "https://www.mercedes-benz-threepointmotors.ca/used/2025-Mercedes_Benz-CLA_250-id13887413.html",
       "dealer_url": "https://www.mercedes-benz-threepointmotors.ca/used/2025-Mercedes_Benz-CLA_250-id13887413.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -508,14 +583,17 @@
       "odometer_km": 6923,
       "year": 2025,
       "make": "Mercedes-Benz",
-      "model": "CLA 250 4matic Coupein Victoria",
-      "condition": "used"
+      "model": "CLA",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2025 Mercedes-Benz CLA 250 4matic Coupein Victoria",
       "vin": "W1K5J4HB7SN528775",
       "stock": "NUMBER",
       "color": "Silver",
+      "trim": "250 4matic Coupe",
       "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/used/c03cec5a1459.html",
       "source_url": "https://www.mercedes-benz-threepointmotors.ca/used/2025-Mercedes_Benz-CLA_250-id13920710.html",
       "dealer_url": "https://www.mercedes-benz-threepointmotors.ca/used/2025-Mercedes_Benz-CLA_250-id13920710.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -525,8 +603,10 @@
       "odometer_km": 8707,
       "year": 2025,
       "make": "Mercedes-Benz",
-      "model": "CLA 250 4matic Coupein Victoria",
-      "condition": "used"
+      "model": "CLA",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2025 Mercedes-Benz C 300 4matic Sedanin Victoria",
@@ -543,7 +623,9 @@
       "year": 2025,
       "make": "Mercedes-Benz",
       "model": "C 300 4matic Sedanin Victoria",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2025 Mercedes-Benz E 450 4matic Sedanin Victoria",
@@ -560,13 +642,16 @@
       "year": 2025,
       "make": "Mercedes-Benz",
       "model": "E 450 4matic Sedanin Victoria",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2025 Mercedes-Benz GLA 250 4matic Suvin Victoria",
       "vin": "W1N4N4HB1SJ702592",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "250 4matic Suv",
       "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/used/55efaef759b4.html",
       "source_url": "https://www.mercedes-benz-threepointmotors.ca/used/2025-Mercedes_Benz-GLA_250-id12130980.html",
       "dealer_url": "https://www.mercedes-benz-threepointmotors.ca/used/2025-Mercedes_Benz-GLA_250-id12130980.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -576,14 +661,17 @@
       "odometer_km": 5259,
       "year": 2025,
       "make": "Mercedes-Benz",
-      "model": "GLA 250 4matic Suvin Victoria",
-      "condition": "used"
+      "model": "GLA",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2025 Mercedes-Benz GLE 350 4matic Suv Awdin Victoria",
       "vin": "4JGFB4FB9SB306847",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "350 4matic Suv",
       "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/used/20a33a9a8e90.html",
       "source_url": "https://www.mercedes-benz-threepointmotors.ca/used/2025-Mercedes_Benz-GLE_350-id13172602.html",
       "dealer_url": "https://www.mercedes-benz-threepointmotors.ca/used/2025-Mercedes_Benz-GLE_350-id13172602.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -593,14 +681,17 @@
       "odometer_km": 16197,
       "year": 2025,
       "make": "Mercedes-Benz",
-      "model": "GLE 350 4matic Suv Awdin Victoria",
-      "condition": "used"
+      "model": "GLE",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Mercedes-Benz GLC 300 4matic Suv |like Newin Victoria",
       "vin": "W1NKM4HB7TF522046",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "300 4matic Suv",
       "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/used/0eddaf44b7f7.html",
       "source_url": "https://www.mercedes-benz-threepointmotors.ca/used/2026-Mercedes_Benz-GLC_300-id13826707.html",
       "dealer_url": "https://www.mercedes-benz-threepointmotors.ca/used/2026-Mercedes_Benz-GLC_300-id13826707.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -610,14 +701,17 @@
       "odometer_km": 3281,
       "year": 2026,
       "make": "Mercedes-Benz",
-      "model": "GLC 300 4matic Suv",
-      "condition": "used"
+      "model": "GLC",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Mercedes-Benz GLC 350e 4matic Suv Awdin Victoria",
       "vin": "W1NKM5GB7TF439207",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "350e 4matic Suv",
       "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/used/3f294f1bd33c.html",
       "source_url": "https://www.mercedes-benz-threepointmotors.ca/used/2026-Mercedes_Benz-GLC_350e-id14313056.html",
       "dealer_url": "https://www.mercedes-benz-threepointmotors.ca/used/2026-Mercedes_Benz-GLC_350e-id14313056.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -627,14 +721,17 @@
       "odometer_km": 10865,
       "year": 2026,
       "make": "Mercedes-Benz",
-      "model": "GLC 350e 4matic Suv Awdin Victoria",
-      "condition": "used"
+      "model": "GLC",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Mercedes-Benz GLE 350 4matic Suv Awdin Victoria",
       "vin": "4JGFB4FB2TB580764",
       "stock": "NUMBER",
       "color": "Silver",
+      "trim": "350 4matic Suv",
       "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/used/5d06eacd3d51.html",
       "source_url": "https://www.mercedes-benz-threepointmotors.ca/used/2026-Mercedes_Benz-GLE_350-id13598995.html",
       "dealer_url": "https://www.mercedes-benz-threepointmotors.ca/used/2026-Mercedes_Benz-GLE_350-id13598995.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -644,13 +741,16 @@
       "odometer_km": 3090,
       "year": 2026,
       "make": "Mercedes-Benz",
-      "model": "GLE 350 4matic Suv Awdin Victoria",
-      "condition": "used"
+      "model": "GLE",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Mercedes-Benz CLA 35 AMG 4matic Coupein Victoria",
       "vin": "W1K5J5BB8TN598690",
       "stock": "NUMBER",
+      "trim": "35 AMG 4matic Coupe",
       "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/6c9cb0a39c8e.html",
       "source_url": "https://www.mercedes-benz-threepointmotors.ca/new/inventory/2026-Mercedes_Benz-CLA_35_AMG-id13202284.html",
       "dealer_url": "https://www.mercedes-benz-threepointmotors.ca/new/inventory/2026-Mercedes_Benz-CLA_35_AMG-id13202284.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -659,13 +759,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mercedes-Benz",
-      "model": "CLA 35 AMG 4matic Coupein Victoria",
-      "condition": "new"
+      "model": "CLA",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Mercedes-Benz CLA 35 AMG 4matic Coupein Victoria",
       "vin": "W1K5J5BB8TN607856",
       "stock": "NUMBER",
+      "trim": "35 AMG 4matic Coupe",
       "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/f7c34404cc83.html",
       "source_url": "https://www.mercedes-benz-threepointmotors.ca/new/inventory/2026-Mercedes_Benz-CLA_35_AMG-id13264396.html",
       "dealer_url": "https://www.mercedes-benz-threepointmotors.ca/new/inventory/2026-Mercedes_Benz-CLA_35_AMG-id13264396.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -674,8 +777,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mercedes-Benz",
-      "model": "CLA 35 AMG 4matic Coupein Victoria",
-      "condition": "new"
+      "model": "CLA",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Mercedes-Benz CLE 300 4matic Coupein Victoria",
@@ -690,7 +795,9 @@
       "year": 2026,
       "make": "Mercedes-Benz",
       "model": "CLE 300 4matic Coupein Victoria",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Mercedes-Benz C 300 4matic Sedanin Victoria",
@@ -705,7 +812,9 @@
       "year": 2026,
       "make": "Mercedes-Benz",
       "model": "C 300 4matic Sedanin Victoria",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Mercedes-Benz C 300 4matic Sedanin Victoria",
@@ -720,7 +829,9 @@
       "year": 2026,
       "make": "Mercedes-Benz",
       "model": "C 300 4matic Sedanin Victoria",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Mercedes-Benz C 300 4matic Sedanin Victoria",
@@ -735,7 +846,9 @@
       "year": 2026,
       "make": "Mercedes-Benz",
       "model": "C 300 4matic Sedanin Victoria",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Mercedes-Benz C 300 4matic Sedanin Victoria",
@@ -750,7 +863,9 @@
       "year": 2026,
       "make": "Mercedes-Benz",
       "model": "C 300 4matic Sedanin Victoria",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Mercedes-Benz C 300 4matic Sedanin Victoria",
@@ -765,12 +880,15 @@
       "year": 2026,
       "make": "Mercedes-Benz",
       "model": "C 300 4matic Sedanin Victoria",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Mercedes-Benz GLA 250 4matic Suvin Victoria",
       "vin": "W1N4N4HB5TJ877526",
       "stock": "NUMBER",
+      "trim": "250 4matic Suv",
       "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/c3b25a9112d2.html",
       "source_url": "https://www.mercedes-benz-threepointmotors.ca/new/inventory/2026-Mercedes_Benz-GLA_250-id14057111.html",
       "dealer_url": "https://www.mercedes-benz-threepointmotors.ca/new/inventory/2026-Mercedes_Benz-GLA_250-id14057111.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -779,13 +897,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mercedes-Benz",
-      "model": "GLA 250 4matic Suvin Victoria",
-      "condition": "new"
+      "model": "GLA",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Mercedes-Benz GLA 250 4matic Suvin Victoria",
       "vin": "W1N4N4HB5TJ889224",
       "stock": "NUMBER",
+      "trim": "250 4matic Suv",
       "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/2bcf6da8df56.html",
       "source_url": "https://www.mercedes-benz-threepointmotors.ca/new/inventory/2026-Mercedes_Benz-GLA_250-id14368381.html",
       "dealer_url": "https://www.mercedes-benz-threepointmotors.ca/new/inventory/2026-Mercedes_Benz-GLA_250-id14368381.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -794,14 +915,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mercedes-Benz",
-      "model": "GLA 250 4matic Suvin Victoria",
-      "condition": "new"
+      "model": "GLA",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Mercedes-Benz GLA 250 4matic Suvin Victoria",
       "vin": "W1N4N4HB2TJ890749",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "250 4matic Suv",
       "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/3fe9b0c59c8e.html",
       "source_url": "https://www.mercedes-benz-threepointmotors.ca/new/inventory/2026-Mercedes_Benz-GLA_250-id14423866.html",
       "dealer_url": "https://www.mercedes-benz-threepointmotors.ca/new/inventory/2026-Mercedes_Benz-GLA_250-id14423866.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -810,13 +934,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mercedes-Benz",
-      "model": "GLA 250 4matic Suvin Victoria",
-      "condition": "new"
+      "model": "GLA",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Mercedes-Benz GLA 35 AMG 4matic Suvin Victoria",
       "vin": "W1N4N5BB0TJ887430",
       "stock": "NUMBER",
+      "trim": "35 AMG 4matic Suv",
       "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/d3d00c6edf6c.html",
       "source_url": "https://www.mercedes-benz-threepointmotors.ca/new/inventory/2026-Mercedes_Benz-GLA_35_AMG-id14368383.html",
       "dealer_url": "https://www.mercedes-benz-threepointmotors.ca/new/inventory/2026-Mercedes_Benz-GLA_35_AMG-id14368383.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -825,13 +952,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mercedes-Benz",
-      "model": "GLA 35 AMG 4matic Suvin Victoria",
-      "condition": "new"
+      "model": "GLA",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Mercedes-Benz GLB 250 4matic Suvin Victoria",
       "vin": "W1N4M4HB8TW483539",
       "stock": "NUMBER",
+      "trim": "250 4matic Suv",
       "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/feb1cb562d9f.html",
       "source_url": "https://www.mercedes-benz-threepointmotors.ca/new/inventory/2026-Mercedes_Benz-GLB_250-id14037870.html",
       "dealer_url": "https://www.mercedes-benz-threepointmotors.ca/new/inventory/2026-Mercedes_Benz-GLB_250-id14037870.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -840,13 +970,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mercedes-Benz",
-      "model": "GLB 250 4matic Suvin Victoria",
-      "condition": "new"
+      "model": "GLB",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Mercedes-Benz GLB 250 4matic Suvin Victoria",
       "vin": "W1N4M4HB6TW493860",
       "stock": "NUMBER",
+      "trim": "250 4matic Suv",
       "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/71e83f418af5.html",
       "source_url": "https://www.mercedes-benz-threepointmotors.ca/new/inventory/2026-Mercedes_Benz-GLB_250-id14376986.html",
       "dealer_url": "https://www.mercedes-benz-threepointmotors.ca/new/inventory/2026-Mercedes_Benz-GLB_250-id14376986.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -855,13 +988,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mercedes-Benz",
-      "model": "GLB 250 4matic Suvin Victoria",
-      "condition": "new"
+      "model": "GLB",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Mercedes-Benz GLC 300 4matic Suvin Victoria",
       "vin": "W1NKM4HB7TF590282",
       "stock": "NUMBER",
+      "trim": "300 4matic Suv",
       "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/c6712c038a50.html",
       "source_url": "https://www.mercedes-benz-threepointmotors.ca/new/inventory/2026-Mercedes_Benz-GLC_300-id14057107.html",
       "dealer_url": "https://www.mercedes-benz-threepointmotors.ca/new/inventory/2026-Mercedes_Benz-GLC_300-id14057107.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -870,13 +1006,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mercedes-Benz",
-      "model": "GLC 300 4matic Suvin Victoria",
-      "condition": "new"
+      "model": "GLC",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Mercedes-Benz GLC 300 4matic Suvin Victoria",
       "vin": "W1NKM4HB0TF582511",
       "stock": "NUMBER",
+      "trim": "300 4matic Suv",
       "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/ee9ac4f6d5c1.html",
       "source_url": "https://www.mercedes-benz-threepointmotors.ca/new/inventory/2026-Mercedes_Benz-GLC_300-id14057108.html",
       "dealer_url": "https://www.mercedes-benz-threepointmotors.ca/new/inventory/2026-Mercedes_Benz-GLC_300-id14057108.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -885,13 +1024,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mercedes-Benz",
-      "model": "GLC 300 4matic Suvin Victoria",
-      "condition": "new"
+      "model": "GLC",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Mercedes-Benz GLC 300 4matic Coupein Victoria",
       "vin": "W1NKJ4HB2TF590005",
       "stock": "NUMBER",
+      "trim": "300 4matic Coupe",
       "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/b2c777fed52e.html",
       "source_url": "https://www.mercedes-benz-threepointmotors.ca/new/inventory/2026-Mercedes_Benz-GLC_300-id14127145.html",
       "dealer_url": "https://www.mercedes-benz-threepointmotors.ca/new/inventory/2026-Mercedes_Benz-GLC_300-id14127145.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -900,13 +1042,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mercedes-Benz",
-      "model": "GLC 300 4matic Coupein Victoria",
-      "condition": "new"
+      "model": "GLC",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Mercedes-Benz GLC 300 4matic Coupein Victoria",
       "vin": "W1NKJ4HB6TF605458",
       "stock": "NUMBER",
+      "trim": "300 4matic Coupe",
       "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/5c95be34fe27.html",
       "source_url": "https://www.mercedes-benz-threepointmotors.ca/new/inventory/2026-Mercedes_Benz-GLC_300-id14127147.html",
       "dealer_url": "https://www.mercedes-benz-threepointmotors.ca/new/inventory/2026-Mercedes_Benz-GLC_300-id14127147.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -915,13 +1060,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mercedes-Benz",
-      "model": "GLC 300 4matic Coupein Victoria",
-      "condition": "new"
+      "model": "GLC",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Mercedes-Benz GLC 300 4matic Coupein Victoria",
       "vin": "W1NKJ4HBXTF637569",
       "stock": "NUMBER",
+      "trim": "300 4matic Coupe",
       "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/758ad19bab19.html",
       "source_url": "https://www.mercedes-benz-threepointmotors.ca/new/inventory/2026-Mercedes_Benz-GLC_300-id14368380.html",
       "dealer_url": "https://www.mercedes-benz-threepointmotors.ca/new/inventory/2026-Mercedes_Benz-GLC_300-id14368380.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -930,14 +1078,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mercedes-Benz",
-      "model": "GLC 300 4matic Coupein Victoria",
-      "condition": "new"
+      "model": "GLC",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Mercedes-Benz Sprinter 2500 Standard Roofin Victoria",
       "vin": "W1W4KBHY6TP874743",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "2500 Standard Roof",
       "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/a074859dd605.html",
       "source_url": "https://www.mercedes-benz-threepointmotors.ca/new/inventory/2026-Mercedes_Benz-Sprinter-id13206865.html",
       "dealer_url": "https://www.mercedes-benz-threepointmotors.ca/new/inventory/2026-Mercedes_Benz-Sprinter-id13206865.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -946,14 +1097,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mercedes-Benz",
-      "model": "Sprinter 2500 Standard Roofin Victoria",
-      "condition": "new"
+      "model": "Sprinter",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Mercedes-Benz Sprinter Cargo Van 2500 High Roof I4in Victoria",
       "vin": "W1Y4KCHY9TP872028",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Van 2500 High Roof I4",
       "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/5132bcd0e460.html",
       "source_url": "https://www.mercedes-benz-threepointmotors.ca/new/inventory/2026-Mercedes_Benz-Sprinter_Cargo_Van-id13202288.html",
       "dealer_url": "https://www.mercedes-benz-threepointmotors.ca/new/inventory/2026-Mercedes_Benz-Sprinter_Cargo_Van-id13202288.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -962,13 +1116,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mercedes-Benz",
-      "model": "Sprinter Cargo Van 2500 High Roof I4in Victoria",
-      "condition": "new"
+      "model": "Sprinter",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Mercedes-Benz Sprinter Cargo Van 2500 High Roof I4in Victoria",
       "vin": "W1Y4KCHY9TP866603",
       "stock": "NUMBER",
+      "trim": "Van 2500 High Roof I4",
       "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/ad89b57b66cc.html",
       "source_url": "https://www.mercedes-benz-threepointmotors.ca/new/inventory/2026-Mercedes_Benz-Sprinter_Cargo_Van-id13202292.html",
       "dealer_url": "https://www.mercedes-benz-threepointmotors.ca/new/inventory/2026-Mercedes_Benz-Sprinter_Cargo_Van-id13202292.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -977,13 +1134,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mercedes-Benz",
-      "model": "Sprinter Cargo Van 2500 High Roof I4in Victoria",
-      "condition": "new"
+      "model": "Sprinter",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Mercedes-Benz Sprinter Cargo Van 2500 High Roof I4in Victoria",
       "vin": "W1Y4KCHYXTP881353",
       "stock": "NUMBER",
+      "trim": "Van 2500 High Roof I4",
       "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/16dd543cadc8.html",
       "source_url": "https://www.mercedes-benz-threepointmotors.ca/new/inventory/2026-Mercedes_Benz-Sprinter_Cargo_Van-id13403273.html",
       "dealer_url": "https://www.mercedes-benz-threepointmotors.ca/new/inventory/2026-Mercedes_Benz-Sprinter_Cargo_Van-id13403273.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -992,13 +1152,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mercedes-Benz",
-      "model": "Sprinter Cargo Van 2500 High Roof I4in Victoria",
-      "condition": "new"
+      "model": "Sprinter",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Mercedes-Benz Sprinter Cargo Van 2500 High Roof I4in Victoria",
       "vin": "W1Y4KCHY8TP899964",
       "stock": "NUMBER",
+      "trim": "Van 2500 High Roof I4",
       "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/61f9d0cdda92.html",
       "source_url": "https://www.mercedes-benz-threepointmotors.ca/new/inventory/2026-Mercedes_Benz-Sprinter_Cargo_Van-id13660929.html",
       "dealer_url": "https://www.mercedes-benz-threepointmotors.ca/new/inventory/2026-Mercedes_Benz-Sprinter_Cargo_Van-id13660929.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1007,13 +1170,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mercedes-Benz",
-      "model": "Sprinter Cargo Van 2500 High Roof I4in Victoria",
-      "condition": "new"
+      "model": "Sprinter",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Mercedes-Benz Sprinter Cargo Van 2500 Standard Roofin Victoria",
       "vin": "W1Y4KBHY4TP901557",
       "stock": "NUMBER",
+      "trim": "Van 2500 Standard Roof",
       "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/db2140e509ef.html",
       "source_url": "https://www.mercedes-benz-threepointmotors.ca/new/inventory/2026-Mercedes_Benz-Sprinter_Cargo_Van-id13794818.html",
       "dealer_url": "https://www.mercedes-benz-threepointmotors.ca/new/inventory/2026-Mercedes_Benz-Sprinter_Cargo_Van-id13794818.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1022,13 +1188,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mercedes-Benz",
-      "model": "Sprinter Cargo Van 2500 Standard Roofin Victoria",
-      "condition": "new"
+      "model": "Sprinter",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Mercedes-Benz Sprinter Cargo Van 2500 Standard Roofin Victoria",
       "vin": "W1Y4KBHYXTP905421",
       "stock": "NUMBER",
+      "trim": "Van 2500 Standard Roof",
       "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/5f1a84f96112.html",
       "source_url": "https://www.mercedes-benz-threepointmotors.ca/new/inventory/2026-Mercedes_Benz-Sprinter_Cargo_Van-id13794820.html",
       "dealer_url": "https://www.mercedes-benz-threepointmotors.ca/new/inventory/2026-Mercedes_Benz-Sprinter_Cargo_Van-id13794820.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1037,13 +1206,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mercedes-Benz",
-      "model": "Sprinter Cargo Van 2500 Standard Roofin Victoria",
-      "condition": "new"
+      "model": "Sprinter",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Mercedes-Benz Sprinter Cargo Van 2500 Standard Roofin Victoria",
       "vin": "W1Y4KBHY4TP915720",
       "stock": "NUMBER",
+      "trim": "Van 2500 Standard Roof",
       "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/b7225e64f586.html",
       "source_url": "https://www.mercedes-benz-threepointmotors.ca/new/inventory/2026-Mercedes_Benz-Sprinter_Cargo_Van-id13815165.html",
       "dealer_url": "https://www.mercedes-benz-threepointmotors.ca/new/inventory/2026-Mercedes_Benz-Sprinter_Cargo_Van-id13815165.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1052,13 +1224,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mercedes-Benz",
-      "model": "Sprinter Cargo Van 2500 Standard Roofin Victoria",
-      "condition": "new"
+      "model": "Sprinter",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Mercedes-Benz Sprinter Cargo Van 2500 Standard Roofin Victoria",
       "vin": "W1Y4KBHY6TP915721",
       "stock": "NUMBER",
+      "trim": "Van 2500 Standard Roof",
       "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/f86a25ecae83.html",
       "source_url": "https://www.mercedes-benz-threepointmotors.ca/new/inventory/2026-Mercedes_Benz-Sprinter_Cargo_Van-id13815166.html",
       "dealer_url": "https://www.mercedes-benz-threepointmotors.ca/new/inventory/2026-Mercedes_Benz-Sprinter_Cargo_Van-id13815166.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1067,13 +1242,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mercedes-Benz",
-      "model": "Sprinter Cargo Van 2500 Standard Roofin Victoria",
-      "condition": "new"
+      "model": "Sprinter",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Mercedes-Benz Sprinter Cargo Van 2500 Standard Roofin Victoria",
       "vin": "W1Y4KBHY5TP904001",
       "stock": "NUMBER",
+      "trim": "Van 2500 Standard Roof",
       "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/29e7593d12ee.html",
       "source_url": "https://www.mercedes-benz-threepointmotors.ca/new/inventory/2026-Mercedes_Benz-Sprinter_Cargo_Van-id13854383.html",
       "dealer_url": "https://www.mercedes-benz-threepointmotors.ca/new/inventory/2026-Mercedes_Benz-Sprinter_Cargo_Van-id13854383.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1082,13 +1260,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mercedes-Benz",
-      "model": "Sprinter Cargo Van 2500 Standard Roofin Victoria",
-      "condition": "new"
+      "model": "Sprinter",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Mercedes-Benz Sprinter Cargo Van 2500 High Roof I4in Victoria",
       "vin": "W1Y4KCHY1TP905233",
       "stock": "NUMBER",
+      "trim": "Van 2500 High Roof I4",
       "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/548732ded452.html",
       "source_url": "https://www.mercedes-benz-threepointmotors.ca/new/inventory/2026-Mercedes_Benz-Sprinter_Cargo_Van-id13854384.html",
       "dealer_url": "https://www.mercedes-benz-threepointmotors.ca/new/inventory/2026-Mercedes_Benz-Sprinter_Cargo_Van-id13854384.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1097,13 +1278,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mercedes-Benz",
-      "model": "Sprinter Cargo Van 2500 High Roof I4in Victoria",
-      "condition": "new"
+      "model": "Sprinter",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Mercedes-Benz Sprinter Cargo Van 2500 High Roof I4in Victoria",
       "vin": "W1Y4KCHY8TP926824",
       "stock": "NUMBER",
+      "trim": "Van 2500 High Roof I4",
       "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/3281f2b2c6e9.html",
       "source_url": "https://www.mercedes-benz-threepointmotors.ca/new/inventory/2026-Mercedes_Benz-Sprinter_Cargo_Van-id14213688.html",
       "dealer_url": "https://www.mercedes-benz-threepointmotors.ca/new/inventory/2026-Mercedes_Benz-Sprinter_Cargo_Van-id14213688.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1112,8 +1296,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mercedes-Benz",
-      "model": "Sprinter Cargo Van 2500 High Roof I4in Victoria",
-      "condition": "new"
+      "model": "Sprinter",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 3500 ",
@@ -1129,12 +1315,15 @@
       "year": 2026,
       "make": "RAM",
       "model": "3500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 RAM ProMaster Cargo Van ",
       "vin": "3C6MRVXG9TE165085",
       "stock": 14022818,
+      "trim": "Van",
       "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/used/b6b924d7ddd9.html",
       "source_url": "https://www.mercedes-benz-threepointmotors.ca/used/2026-RAM-ProMaster_Cargo_Van.html",
       "dealer_url": "https://www.mercedes-benz-threepointmotors.ca/used/2026-RAM-ProMaster_Cargo_Van.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1143,13 +1332,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "RAM",
-      "model": "ProMaster Cargo Van",
-      "condition": "used"
+      "model": "ProMaster",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 Mercedes-Benz GLC 300 4matic Coupein Victoria",
       "vin": "W1NKJ4HB9VF657136",
       "stock": "NUMBER",
+      "trim": "300 4matic Coupe",
       "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/95a737ee1a24.html",
       "source_url": "https://www.mercedes-benz-threepointmotors.ca/new/inventory/2027-Mercedes_Benz-GLC_300-id14368379.html",
       "dealer_url": "https://www.mercedes-benz-threepointmotors.ca/new/inventory/2027-Mercedes_Benz-GLC_300-id14368379.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1158,14 +1350,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Mercedes-Benz",
-      "model": "GLC 300 4matic Coupein Victoria",
-      "condition": "new"
+      "model": "GLC",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 Mercedes-Benz GLC 300 4matic Suvin Victoria",
       "vin": "W1NKM4HB1VF657929",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "300 4matic Suv",
       "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/6334f58f6c91.html",
       "source_url": "https://www.mercedes-benz-threepointmotors.ca/new/inventory/2027-Mercedes_Benz-GLC_300-id14410587.html",
       "dealer_url": "https://www.mercedes-benz-threepointmotors.ca/new/inventory/2027-Mercedes_Benz-GLC_300-id14410587.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1174,14 +1369,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Mercedes-Benz",
-      "model": "GLC 300 4matic Suvin Victoria",
-      "condition": "new"
+      "model": "GLC",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 Mercedes-Benz GLC 300 4matic Coupein Victoria",
       "vin": "W1NKJ4HB0VF653783",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "300 4matic Coupe",
       "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/782260cbce65.html",
       "source_url": "https://www.mercedes-benz-threepointmotors.ca/new/inventory/2027-Mercedes_Benz-GLC_300-id14423867.html",
       "dealer_url": "https://www.mercedes-benz-threepointmotors.ca/new/inventory/2027-Mercedes_Benz-GLC_300-id14423867.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1190,14 +1388,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Mercedes-Benz",
-      "model": "GLC 300 4matic Coupein Victoria",
-      "condition": "new"
+      "model": "GLC",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 Mercedes-Benz GLC 300 4matic Coupein Victoria",
       "vin": "W1NKJ4HB0VF655761",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "300 4matic Coupe",
       "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/ed98c0cec507.html",
       "source_url": "https://www.mercedes-benz-threepointmotors.ca/new/inventory/2027-Mercedes_Benz-GLC_300-id14435956.html",
       "dealer_url": "https://www.mercedes-benz-threepointmotors.ca/new/inventory/2027-Mercedes_Benz-GLC_300-id14435956.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1206,14 +1407,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Mercedes-Benz",
-      "model": "GLC 300 4matic Coupein Victoria",
-      "condition": "new"
+      "model": "GLC",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 Mercedes-Benz GLC 350e 4matic Suvin Victoria",
       "vin": "W1NKM5GB3VF646115",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "350e 4matic Suv",
       "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/dfd2c3e38af5.html",
       "source_url": "https://www.mercedes-benz-threepointmotors.ca/new/inventory/2027-Mercedes_Benz-GLC_350e-id14423868.html",
       "dealer_url": "https://www.mercedes-benz-threepointmotors.ca/new/inventory/2027-Mercedes_Benz-GLC_350e-id14423868.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1222,8 +1426,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Mercedes-Benz",
-      "model": "GLC 350e 4matic Suvin Victoria",
-      "condition": "new"
+      "model": "GLC",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     }
   ]
 }
