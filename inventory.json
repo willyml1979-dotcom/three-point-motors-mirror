@@ -1,6 +1,6 @@
 {
   "dealership": "Three Point Motors",
-  "generated_at": "2026-10-25T14:31:53",
+  "generated_at": "2026-10-25T14:48:39",
   "vehicle_count": 78,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -62,11 +62,11 @@
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Mercedes-Benz GLA 250 4matic Suvin Victoria",
-      "vin": "W1N4N4HB5TJ889224",
-      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/2bcf6da8df56.html",
+      "name": "New 2026 Mercedes-Benz E 350 4matic Sedanin Victoria",
+      "vin": "W1KLF4HB0TA271847",
+      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/0392d5e94546.html",
       "condition": "new",
-      "price": 67111.0,
+      "price": 97781.0,
       "price_currency": "CAD"
     },
     {
@@ -111,14 +111,6 @@
     },
     {
       "name": "New 2026 Mercedes-Benz GLC 300 4matic Suvin Victoria",
-      "vin": "W1NKM4HB7TF590282",
-      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/c6712c038a50.html",
-      "condition": "new",
-      "price": 85291.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mercedes-Benz GLC 300 4matic Suvin Victoria",
       "vin": "W1NKM4HB0TF582511",
       "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/ee9ac4f6d5c1.html",
       "condition": "new",
@@ -158,7 +150,15 @@
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Mercedes-Benz Sprinter 2500 Standard Roofin Victoria",
+      "name": "New 2026 Mercedes-Benz GLC 43 AMG 4matic Coupein Victoria",
+      "vin": "W1NKJ8HB6TF544040",
+      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/3655fae8be77.html",
+      "condition": "new",
+      "price": 103630.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mercedes-Benz Sprinter 2500 High Roof I4 Diesel 144\"in Victoria",
       "vin": "W1W4KBHY6TP874743",
       "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/a074859dd605.html",
       "condition": "new",
