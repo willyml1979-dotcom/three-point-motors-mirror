@@ -1,307 +1,86 @@
 {
   "dealership": "Three Point Motors",
-  "generated_at": "2026-10-26T08:51:21",
-  "vehicle_count": 78,
+  "generated_at": "2026-11-17T10:19:37",
+  "vehicle_count": 75,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
     {
-      "name": "New 2026 Mercedes-Benz CLA 35 AMG 4matic Coupein Victoria",
-      "vin": "W1K5J5BB8TN598690",
-      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/6c9cb0a39c8e.html",
-      "condition": "new",
-      "price": 76595.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mercedes-Benz CLE 300 4matic Cabrioletin Victoria",
-      "vin": "W1KMK4HBXTF134577",
-      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/280a8fa040f9.html",
-      "condition": "new",
-      "price": 95881.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mercedes-Benz CLE 300 4matic Coupein Victoria",
-      "vin": "W1KMJ4HB0TF134686",
-      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/2abf1c604e07.html",
-      "condition": "new",
-      "price": 83581.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mercedes-Benz C 300 4matic Sedanin Victoria",
-      "vin": "W1KAF4HB9TR351527",
-      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/8080c5823cd9.html",
-      "condition": "new",
-      "price": 80291.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mercedes-Benz C 300 4matic Sedanin Victoria",
-      "vin": "W1KAF4HB1TR346242",
-      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/984dc67b6ca6.html",
-      "condition": "new",
-      "price": 82291.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mercedes-Benz C 300 4matic Sedanin Victoria",
-      "vin": "W1KAF4HB4TR346641",
-      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/96f052f95823.html",
-      "condition": "new",
-      "price": 81391.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mercedes-Benz C 300 4matic Sedanin Victoria",
-      "vin": "W1KAF4HB2TR354222",
-      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/628f78deff09.html",
-      "condition": "new",
-      "price": 76191.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mercedes-Benz E 350 4matic Sedanin Victoria",
-      "vin": "W1KLF4HB0TA271847",
-      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/0392d5e94546.html",
-      "condition": "new",
-      "price": 97781.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mercedes-Benz GLA 250 4matic Suvin Victoria",
-      "vin": "W1N4N4HB1TJ905998",
-      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/55f8f9c5f7df.html",
-      "condition": "new",
-      "price": 70611.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mercedes-Benz GLA 250 4matic Suvin Victoria",
-      "vin": "W1N4N4HB9TJ887508",
-      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/3a58ceb014af.html",
-      "condition": "new",
-      "price": 70611.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mercedes-Benz GLA 35 AMG 4matic Suvin Victoria",
-      "vin": "W1N4N5BB0TJ887430",
-      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/d3d00c6edf6c.html",
-      "condition": "new",
-      "price": 83605.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mercedes-Benz GLB 250 4matic Suvin Victoria",
-      "vin": "W1N4M4HB8TW483539",
-      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/feb1cb562d9f.html",
-      "condition": "new",
-      "price": 71505.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mercedes-Benz GLB 250 4matic Suvin Victoria",
-      "vin": "W1N4M4HB6TW493860",
-      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/71e83f418af5.html",
-      "condition": "new",
-      "price": 71505.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mercedes-Benz GLC 300 4matic Suvin Victoria",
-      "vin": "W1NKM4HB0TF582511",
-      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/ee9ac4f6d5c1.html",
-      "condition": "new",
-      "price": 77591.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mercedes-Benz GLC 300 4matic Coupein Victoria",
-      "vin": "W1NKJ4HB2TF590005",
-      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/b2c777fed52e.html",
-      "condition": "new",
-      "price": 83641.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mercedes-Benz GLC 300 4matic Coupein Victoria",
-      "vin": "W1NKJ4HB6TF605458",
-      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/5c95be34fe27.html",
-      "condition": "new",
-      "price": 85041.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mercedes-Benz GLC 300 4matic Coupein Victoria",
-      "vin": "W1NKJ4HBXTF637569",
-      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/758ad19bab19.html",
-      "condition": "new",
-      "price": 85441.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mercedes-Benz GLC 300 4matic Suvin Victoria",
-      "vin": "W1NKM4HB1TF616391",
-      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/c722d9887c65.html",
-      "condition": "new",
-      "price": 80591.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mercedes-Benz GLC 43 AMG 4matic Coupein Victoria",
-      "vin": "W1NKJ8HB6TF544040",
-      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/3655fae8be77.html",
-      "condition": "new",
-      "price": 103630.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mercedes-Benz Sprinter 2500 High Roof I4 Diesel 144\"in Victoria",
-      "vin": "W1W4KBHY6TP874743",
-      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/a074859dd605.html",
-      "condition": "new",
-      "price": 84997.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mercedes-Benz Sprinter Cargo Van 2500 High Roof I4in Victoria",
-      "vin": "W1Y4KCHY9TP872028",
-      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/5132bcd0e460.html",
-      "condition": "new",
-      "price": 89563.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mercedes-Benz Sprinter Cargo Van 2500 High Roof I4in Victoria",
-      "vin": "W1Y4KCHY9TP866603",
-      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/ad89b57b66cc.html",
-      "condition": "new",
-      "price": 87948.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mercedes-Benz Sprinter Cargo Van 2500 High Roof I4in Victoria",
-      "vin": "W1Y4KCHYXTP881353",
-      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/16dd543cadc8.html",
-      "condition": "new",
-      "price": 86745.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mercedes-Benz Sprinter Cargo Van 2500 High Roof I4in Victoria",
-      "vin": "W1Y4KCHY8TP899964",
-      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/61f9d0cdda92.html",
-      "condition": "new",
-      "price": 87473.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mercedes-Benz Sprinter Cargo Van 2500 High Roof I4 Diesel 144\"in Victoria",
-      "vin": "W1Y4KBHY4TP901557",
-      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/db2140e509ef.html",
-      "condition": "new",
-      "price": 83356.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mercedes-Benz Sprinter Cargo Van 2500 Standard Roofin Victoria",
-      "vin": "W1Y4KBHY6TP915721",
-      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/f86a25ecae83.html",
-      "condition": "new",
-      "price": 83356.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mercedes-Benz Sprinter Cargo Van 2500 Standard Roofin Victoria",
-      "vin": "W1Y4KBHY5TP904001",
-      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/29e7593d12ee.html",
-      "condition": "new",
-      "price": 83356.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mercedes-Benz Sprinter Cargo Van 2500 High Roof I4in Victoria",
-      "vin": "W1Y4KCHY1TP905233",
-      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/548732ded452.html",
-      "condition": "new",
-      "price": 87473.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mercedes-Benz Sprinter Cargo Van 2500 High Roof I4in Victoria",
-      "vin": "W1Y4KCHY8TP926824",
-      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/3281f2b2c6e9.html",
-      "condition": "new",
-      "price": 87473.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Mercedes-Benz CLE 450 4matic Coupein Victoria",
-      "vin": "W1KMJ6BB4VF138912",
-      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/94bda55c5eea.html",
-      "condition": "new",
-      "price": 93602.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Mercedes-Benz GLC 300 4MATIC Coupein Victoria",
-      "vin": "W1NKJ4HB0VF655761",
-      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/603d00c46d2d.html",
-      "condition": "new",
-      "price": 82309.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Mercedes-Benz GLC 300 4matic Coupein Victoria",
-      "vin": "W1NKJ4HB0VF653783",
-      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/782260cbce65.html",
-      "condition": "new",
-      "price": 81609.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Mercedes-Benz GLC 300 4matic Suvin Victoria",
-      "vin": "W1NKM4HB0VF660708",
-      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/9dc8d54df998.html",
-      "condition": "new",
-      "price": 86309.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Mercedes-Benz GLC 300 4matic Suvin Victoria",
-      "vin": "W1NKM4HB0VF657923",
-      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/efe3a5c46605.html",
-      "condition": "new",
-      "price": 83809.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Mercedes-Benz GLC 300 4matic Suvin Victoria",
-      "vin": "W1NKM4HB5VF668190",
-      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/c41147801082.html",
-      "condition": "new",
-      "price": 82509.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Mercedes-Benz GLC 300 4matic Coupein Victoria",
-      "vin": "W1NKJ4HBXVF672521",
-      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/9eca125de6e8.html",
-      "condition": "new",
-      "price": 83341.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2013 Jaguar XKR ",
+      "name": "Jaguar XKR 2013 for salein Victoria",
       "vin": "SAJXA4DC3DMB50971",
       "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/used/36cc554a9abb.html",
-      "year": 2013,
-      "make": "Jaguar",
-      "model": "XKR",
       "condition": "used",
-      "price": 69900.0,
+      "price": 67900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Audi A5 2019 for salein Victoria",
+      "vin": "WAUBNCF50KA078433",
+      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/used/ed1772f123c6.html",
+      "condition": "used",
+      "price": 32900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM 1500 2021 for salein Victoria",
+      "vin": "1C6RR7FG9MS579985",
+      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/used/d26cee22c0a7.html",
+      "condition": "used",
+      "price": 32900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Infiniti QX60 2022 for salein Victoria",
+      "vin": "5N1DL1FS4NC339255",
+      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/used/0d7c83ff06f1.html",
+      "condition": "used",
+      "price": 36900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford F-150 2023 for salein Victoria",
+      "vin": "1FTFW1E84PFC97598",
+      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/used/8784992bfa51.html",
+      "condition": "used",
+      "price": 71900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Chevrolet Silverado 1500 2024 for salein Victoria",
+      "vin": "3GCUDCE87RG394806",
+      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/used/a7734d44667c.html",
+      "condition": "used",
+      "price": 48500.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford Mustang 2024 for salein Victoria",
+      "vin": "1FAGP8UH4R5120690",
+      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/used/13f3215fca70.html",
+      "condition": "used",
+      "price": 42900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2002 Mercedes-Benz SLK 320in Victoria",
+      "vin": "WDBKK65F32F258868",
+      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/used/8e25e99540b2.html",
+      "year": 2002,
+      "make": "Mercedes-Benz",
+      "model": "SLK 320in Victoria",
+      "condition": "used",
+      "price": 39900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2013 Mercedes-Benz E 350 Cabrioletin Victoria",
+      "vin": "WDDKK5KF4DF213706",
+      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/used/45f4f4272d36.html",
+      "year": 2013,
+      "make": "Mercedes-Benz",
+      "model": "E 350 Cabrioletin Victoria",
+      "condition": "used",
+      "price": 22900.0,
       "price_currency": "CAD"
     },
     {
@@ -316,14 +95,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2014 Toyota RAV4 ",
-      "vin": "2T3RFREV7EW126759",
-      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/used/22996353570c.html",
+      "name": "2014 Mercedes-Benz G 63 AMG Suv |low Mileage|bcin Victoria",
+      "vin": "WDCYC7DF2EX221075",
+      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/used/807d01a47f3e.html",
       "year": 2014,
-      "make": "Toyota",
-      "model": "RAV4",
+      "make": "Mercedes-Benz",
+      "model": "G 63 AMG Suv",
       "condition": "used",
-      "price": 13900.0,
+      "price": 76900.0,
       "price_currency": "CAD"
     },
     {
@@ -356,18 +135,29 @@
       "make": "Mercedes-Benz",
       "model": "C 300 4matic Sedanin Victoria",
       "condition": "used",
-      "price": 19500.0,
+      "price": 18900.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2019 Mercedes-Benz GLA 250 Suv Awdin Victoria",
-      "vin": "WDCTG4GB5KJ535419",
-      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/used/e8fdac1e5ad8.html",
+      "name": "2018 Mercedes-Benz SLC 300 Roadster |lowin Victoria",
+      "vin": "WDDPK3JAXJF149764",
+      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/used/abd61bde5ee9.html",
+      "year": 2018,
+      "make": "Mercedes-Benz",
+      "model": "SLC 300 Roadster",
+      "condition": "used",
+      "price": 39900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2019 Mercedes-Benz GLC 43 AMG 4matic Suvin Victoria",
+      "vin": "WDC0G6EB2KF498544",
+      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/used/281ba544a3e9.html",
       "year": 2019,
       "make": "Mercedes-Benz",
-      "model": "GLA",
+      "model": "GLC",
       "condition": "used",
-      "price": 22800.0,
+      "price": 34900.0,
       "price_currency": "CAD"
     },
     {
@@ -411,40 +201,7 @@
       "make": "Mercedes-Benz",
       "model": "GLE",
       "condition": "used",
-      "price": 66800.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Mercedes-Benz Sprinter 2500 Cargoin Victoria",
-      "vin": "W1Y4ECHYXMP408965",
-      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/used/035254331fab.html",
-      "year": 2021,
-      "make": "Mercedes-Benz",
-      "model": "Sprinter",
-      "condition": "used",
-      "price": 43500.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 RAM 1500 ",
-      "vin": "1C6RR7FG9MS579985",
-      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/used/d26cee22c0a7.html",
-      "year": 2021,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "used",
-      "price": 32900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Infiniti QX60 ",
-      "vin": "5N1DL1FS4NC339255",
-      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/used/0d7c83ff06f1.html",
-      "year": 2022,
-      "make": "Infiniti",
-      "model": "QX60",
-      "condition": "used",
-      "price": 37900.0,
+      "price": 65900.0,
       "price_currency": "CAD"
     },
     {
@@ -481,28 +238,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Mercedes-Benz GLB 250 4matic Suv |lowin Victoria",
-      "vin": "W1N4M4HB3NW237274",
-      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/used/e834b16d06b6.html",
-      "year": 2022,
-      "make": "Mercedes-Benz",
-      "model": "GLB",
-      "condition": "used",
-      "price": 36900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Mercedes-Benz GLC 300 4matic Suv Awdin Victoria",
-      "vin": "W1N0G8EB2NG068683",
-      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/used/e21b886df888.html",
-      "year": 2022,
-      "make": "Mercedes-Benz",
-      "model": "GLC",
-      "condition": "used",
-      "price": 38900.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2022 Mercedes-Benz Sprinter One Localin Victoria",
       "vin": "W1Y4ECVY8NP452291",
       "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/used/bcefb0428622.html",
@@ -514,25 +249,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Ford F-150 ",
-      "vin": "1FTFW1E84PFC97598",
-      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/used/8784992bfa51.html",
-      "year": 2023,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "used",
-      "price": 71900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Mercedes-Benz GLA 250 4matic Suvin Victoria",
-      "vin": "W1N4N4HB3PJ438119",
-      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/used/4e50b82a526c.html",
+      "name": "2023 Mercedes-Benz C 300 4matic Cabrioletin Victoria",
+      "vin": "W1KWK8EB7PG120009",
+      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/used/05127150397c.html",
       "year": 2023,
       "make": "Mercedes-Benz",
-      "model": "GLA",
+      "model": "C 300 4matic Cabrioletin Victoria",
       "condition": "used",
-      "price": 36900.0,
+      "price": 59900.0,
       "price_currency": "CAD"
     },
     {
@@ -554,29 +278,18 @@
       "make": "Mercedes-Benz",
       "model": "GLC",
       "condition": "used",
-      "price": 58900.0,
+      "price": 59900.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Chevrolet Silverado 1500 ",
-      "vin": "3GCUDCE87RG394806",
-      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/used/a7734d44667c.html",
-      "year": 2024,
-      "make": "Chevrolet",
-      "model": "Silverado 1500",
+      "name": "2023 Mercedes-Benz GLE 350 4matic Suv |bcin Victoria",
+      "vin": "4JGFB4KB4PA900216",
+      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/used/6be4e98ac215.html",
+      "year": 2023,
+      "make": "Mercedes-Benz",
+      "model": "GLE",
       "condition": "used",
-      "price": 48500.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Ford Mustang ",
-      "vin": "1FAGP8UH4R5120690",
-      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/used/13f3215fca70.html",
-      "year": 2024,
-      "make": "Ford",
-      "model": "Mustang",
-      "condition": "used",
-      "price": 42900.0,
+      "price": 50900.0,
       "price_currency": "CAD"
     },
     {
@@ -587,29 +300,7 @@
       "make": "Mercedes-Benz",
       "model": "EQE",
       "condition": "used",
-      "price": 70900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Mercedes-Benz GLC 300 4matic Suvin Victoria",
-      "vin": "W1NKM4HB1RF157694",
-      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/used/46acb32abf4e.html",
-      "year": 2024,
-      "make": "Mercedes-Benz",
-      "model": "GLC",
-      "condition": "used",
-      "price": 56900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Mercedes-Benz GLE 350 4matic Suv Awdin Victoria",
-      "vin": "4JGFB4FBXRA993952",
-      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/used/70ac94761166.html",
-      "year": 2024,
-      "make": "Mercedes-Benz",
-      "model": "GLE",
-      "condition": "used",
-      "price": 59900.0,
+      "price": 69900.0,
       "price_currency": "CAD"
     },
     {
@@ -620,29 +311,7 @@
       "make": "Mercedes-Benz",
       "model": "GLS",
       "condition": "used",
-      "price": 84900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Mercedes-Benz Sprinter Cargo Van 2500 High Roof I4in Victoria",
-      "vin": "W1Y4NCHY5RP654278",
-      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/used/b96f2e61450b.html",
-      "year": 2024,
-      "make": "Mercedes-Benz",
-      "model": "Sprinter",
-      "condition": "used",
-      "price": 52900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Ford Bronco Sport ",
-      "vin": "3FMCR9DA0SRE40292",
-      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/used/c2d781bce22a.html",
-      "year": 2025,
-      "make": "Ford",
-      "model": "Bronco Sport",
-      "condition": "used",
-      "price": 39900.0,
+      "price": 86900.0,
       "price_currency": "CAD"
     },
     {
@@ -657,14 +326,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Mercedes-Benz CLA 250 4matic Coupein Victoria",
-      "vin": "W1K5J4HB8SN506350",
-      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/used/3e228fe41589.html",
+      "name": "2025 Mercedes-Benz CLE 300 4matic Cabriolet Awdin Victoria",
+      "vin": "W1KMK4HBXSF068773",
+      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/used/0f312e626ffa.html",
       "year": 2025,
       "make": "Mercedes-Benz",
-      "model": "CLA",
+      "model": "CLE 300 4matic Cabriolet Awdin Victoria",
       "condition": "used",
-      "price": 47900.0,
+      "price": 75900.0,
       "price_currency": "CAD"
     },
     {
@@ -676,28 +345,6 @@
       "model": "C 300 4matic Sedanin Victoria",
       "condition": "used",
       "price": 64900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Mercedes-Benz GLA 250 4matic Suvin Victoria",
-      "vin": "W1N4N4HB1SJ702592",
-      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/used/55efaef759b4.html",
-      "year": 2025,
-      "make": "Mercedes-Benz",
-      "model": "GLA",
-      "condition": "used",
-      "price": 51900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Mercedes-Benz GLE 350 4matic Suv Awdin Victoria",
-      "vin": "4JGFB4FB9SB306847",
-      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/used/20a33a9a8e90.html",
-      "year": 2025,
-      "make": "Mercedes-Benz",
-      "model": "GLE",
-      "condition": "used",
-      "price": 71800.0,
       "price_currency": "CAD"
     },
     {
@@ -734,6 +381,336 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2026 Mercedes-Benz GLE 450 4matic Suvin Victoria",
+      "vin": "4JGFB5KB7TB601314",
+      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/used/8ef30a3d15ce.html",
+      "year": 2026,
+      "make": "Mercedes-Benz",
+      "model": "GLE",
+      "condition": "used",
+      "price": 99800.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mercedes-Benz CLA 35 AMG 4matic Coupein Victoria",
+      "vin": "W1K5J5BB8TN598690",
+      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/6c9cb0a39c8e.html",
+      "year": 2026,
+      "make": "Mercedes-Benz",
+      "model": "CLA",
+      "condition": "new",
+      "price": 76595.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mercedes-Benz CLE 300 4matic Cabrioletin Victoria",
+      "vin": "W1KMK4HBXTF134577",
+      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/280a8fa040f9.html",
+      "year": 2026,
+      "make": "Mercedes-Benz",
+      "model": "CLE 300 4matic Cabrioletin Victoria",
+      "condition": "new",
+      "price": 95881.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mercedes-Benz CLE 300 4matic Coupein Victoria",
+      "vin": "W1KMJ4HB0TF134686",
+      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/2abf1c604e07.html",
+      "year": 2026,
+      "make": "Mercedes-Benz",
+      "model": "CLE 300 4matic Coupein Victoria",
+      "condition": "new",
+      "price": 83581.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mercedes-Benz C 300 4matic Sedanin Victoria",
+      "vin": "W1KAF4HB9TR351527",
+      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/8080c5823cd9.html",
+      "year": 2026,
+      "make": "Mercedes-Benz",
+      "model": "C 300 4matic Sedanin Victoria",
+      "condition": "new",
+      "price": 80291.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mercedes-Benz C 300 4matic Sedanin Victoria",
+      "vin": "W1KAF4HB1TR346242",
+      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/984dc67b6ca6.html",
+      "year": 2026,
+      "make": "Mercedes-Benz",
+      "model": "C 300 4matic Sedanin Victoria",
+      "condition": "new",
+      "price": 82291.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mercedes-Benz C 300 4matic Sedanin Victoria",
+      "vin": "W1KAF4HB4TR346641",
+      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/96f052f95823.html",
+      "year": 2026,
+      "make": "Mercedes-Benz",
+      "model": "C 300 4matic Sedanin Victoria",
+      "condition": "new",
+      "price": 81391.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mercedes-Benz C 300 4matic Sedanin Victoria",
+      "vin": "W1KAF4HB2TR354222",
+      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/628f78deff09.html",
+      "year": 2026,
+      "make": "Mercedes-Benz",
+      "model": "C 300 4matic Sedanin Victoria",
+      "condition": "new",
+      "price": 76191.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mercedes-Benz E 350 4matic Sedanin Victoria",
+      "vin": "W1KLF4HB0TA271847",
+      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/0392d5e94546.html",
+      "year": 2026,
+      "make": "Mercedes-Benz",
+      "model": "E 350 4matic Sedanin Victoria",
+      "condition": "new",
+      "price": 97781.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mercedes-Benz GLA 250 4matic Suvin Victoria",
+      "vin": "W1N4N4HB1TJ905998",
+      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/55f8f9c5f7df.html",
+      "year": 2026,
+      "make": "Mercedes-Benz",
+      "model": "GLA",
+      "condition": "new",
+      "price": 70611.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mercedes-Benz GLA 250 4matic Suvin Victoria",
+      "vin": "W1N4N4HB9TJ887508",
+      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/3a58ceb014af.html",
+      "year": 2026,
+      "make": "Mercedes-Benz",
+      "model": "GLA",
+      "condition": "new",
+      "price": 70611.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mercedes-Benz GLA 35 AMG 4matic Suvin Victoria",
+      "vin": "W1N4N5BB0TJ887430",
+      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/d3d00c6edf6c.html",
+      "year": 2026,
+      "make": "Mercedes-Benz",
+      "model": "GLA",
+      "condition": "new",
+      "price": 83605.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mercedes-Benz GLB 250 4matic Suvin Victoria",
+      "vin": "W1N4M4HB8TW483539",
+      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/feb1cb562d9f.html",
+      "year": 2026,
+      "make": "Mercedes-Benz",
+      "model": "GLB",
+      "condition": "new",
+      "price": 71505.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mercedes-Benz GLB 250 4matic Suvin Victoria",
+      "vin": "W1N4M4HB6TW493860",
+      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/71e83f418af5.html",
+      "year": 2026,
+      "make": "Mercedes-Benz",
+      "model": "GLB",
+      "condition": "new",
+      "price": 71505.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mercedes-Benz GLC 300 4matic Suvin Victoria",
+      "vin": "W1NKM4HB0TF582511",
+      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/ee9ac4f6d5c1.html",
+      "year": 2026,
+      "make": "Mercedes-Benz",
+      "model": "GLC",
+      "condition": "new",
+      "price": 77591.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mercedes-Benz GLC 300 4matic Coupein Victoria",
+      "vin": "W1NKJ4HB2TF590005",
+      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/b2c777fed52e.html",
+      "year": 2026,
+      "make": "Mercedes-Benz",
+      "model": "GLC",
+      "condition": "new",
+      "price": 83641.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mercedes-Benz GLC 300 4matic Coupein Victoria",
+      "vin": "W1NKJ4HB6TF605458",
+      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/5c95be34fe27.html",
+      "year": 2026,
+      "make": "Mercedes-Benz",
+      "model": "GLC",
+      "condition": "new",
+      "price": 85041.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mercedes-Benz GLC 300 4matic Coupein Victoria",
+      "vin": "W1NKJ4HBXTF637569",
+      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/758ad19bab19.html",
+      "year": 2026,
+      "make": "Mercedes-Benz",
+      "model": "GLC",
+      "condition": "new",
+      "price": 85441.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mercedes-Benz GLC 300 4matic Suvin Victoria",
+      "vin": "W1NKM4HB1TF616391",
+      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/c722d9887c65.html",
+      "year": 2026,
+      "make": "Mercedes-Benz",
+      "model": "GLC",
+      "condition": "new",
+      "price": 80591.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mercedes-Benz GLC 43 AMG 4matic Coupein Victoria",
+      "vin": "W1NKJ8HB6TF544040",
+      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/3655fae8be77.html",
+      "year": 2026,
+      "make": "Mercedes-Benz",
+      "model": "GLC",
+      "condition": "new",
+      "price": 103630.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mercedes-Benz Sprinter 2500 High Roof I4 Diesel 144\"in Victoria",
+      "vin": "W1W4KBHY6TP874743",
+      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/a074859dd605.html",
+      "year": 2026,
+      "make": "Mercedes-Benz",
+      "model": "Sprinter",
+      "condition": "new",
+      "price": 84997.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mercedes-Benz Sprinter Cargo Van 2500 High Roof I4in Victoria",
+      "vin": "W1Y4KCHY9TP872028",
+      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/5132bcd0e460.html",
+      "year": 2026,
+      "make": "Mercedes-Benz",
+      "model": "Sprinter",
+      "condition": "new",
+      "price": 89563.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mercedes-Benz Sprinter Cargo Van 2500 High Roof I4in Victoria",
+      "vin": "W1Y4KCHY9TP866603",
+      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/ad89b57b66cc.html",
+      "year": 2026,
+      "make": "Mercedes-Benz",
+      "model": "Sprinter",
+      "condition": "new",
+      "price": 87948.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mercedes-Benz Sprinter Cargo Van 2500 High Roof I4in Victoria",
+      "vin": "W1Y4KCHYXTP881353",
+      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/16dd543cadc8.html",
+      "year": 2026,
+      "make": "Mercedes-Benz",
+      "model": "Sprinter",
+      "condition": "new",
+      "price": 86745.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mercedes-Benz Sprinter Cargo Van 2500 High Roof I4in Victoria",
+      "vin": "W1Y4KCHY8TP899964",
+      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/61f9d0cdda92.html",
+      "year": 2026,
+      "make": "Mercedes-Benz",
+      "model": "Sprinter",
+      "condition": "new",
+      "price": 87473.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mercedes-Benz Sprinter Cargo Van 2500 High Roof I4 Diesel 144\"in Victoria",
+      "vin": "W1Y4KBHY4TP901557",
+      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/db2140e509ef.html",
+      "year": 2026,
+      "make": "Mercedes-Benz",
+      "model": "Sprinter",
+      "condition": "new",
+      "price": 83356.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mercedes-Benz Sprinter Cargo Van 2500 Standard Roofin Victoria",
+      "vin": "W1Y4KBHY6TP915721",
+      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/f86a25ecae83.html",
+      "year": 2026,
+      "make": "Mercedes-Benz",
+      "model": "Sprinter",
+      "condition": "new",
+      "price": 83356.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mercedes-Benz Sprinter Cargo Van 2500 Standard Roofin Victoria",
+      "vin": "W1Y4KBHY5TP904001",
+      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/29e7593d12ee.html",
+      "year": 2026,
+      "make": "Mercedes-Benz",
+      "model": "Sprinter",
+      "condition": "new",
+      "price": 83356.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mercedes-Benz Sprinter Cargo Van 2500 High Roof I4in Victoria",
+      "vin": "W1Y4KCHY1TP905233",
+      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/548732ded452.html",
+      "year": 2026,
+      "make": "Mercedes-Benz",
+      "model": "Sprinter",
+      "condition": "new",
+      "price": 87473.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mercedes-Benz Sprinter Cargo Van 2500 High Roof I4in Victoria",
+      "vin": "W1Y4KCHY8TP926824",
+      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/3281f2b2c6e9.html",
+      "year": 2026,
+      "make": "Mercedes-Benz",
+      "model": "Sprinter",
+      "condition": "new",
+      "price": 87473.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 RAM 3500 ",
       "vin": "3C63R3DL0TG186185",
       "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/used/71932f168f37.html",
@@ -753,6 +730,83 @@
       "model": "ProMaster",
       "condition": "used",
       "price": 66500.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Mercedes-Benz CLE 450 4matic Coupein Victoria",
+      "vin": "W1KMJ6BB4VF138912",
+      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/94bda55c5eea.html",
+      "year": 2027,
+      "make": "Mercedes-Benz",
+      "model": "CLE 450 4matic Coupein Victoria",
+      "condition": "new",
+      "price": 93602.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Mercedes-Benz GLC 300 4MATIC Coupein Victoria",
+      "vin": "W1NKJ4HB0VF655761",
+      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/603d00c46d2d.html",
+      "year": 2027,
+      "make": "Mercedes-Benz",
+      "model": "GLC",
+      "condition": "new",
+      "price": 82309.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Mercedes-Benz GLC 300 4matic Coupein Victoria",
+      "vin": "W1NKJ4HB0VF653783",
+      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/782260cbce65.html",
+      "year": 2027,
+      "make": "Mercedes-Benz",
+      "model": "GLC",
+      "condition": "new",
+      "price": 81609.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Mercedes-Benz GLC 300 4matic Suvin Victoria",
+      "vin": "W1NKM4HB0VF660708",
+      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/9dc8d54df998.html",
+      "year": 2027,
+      "make": "Mercedes-Benz",
+      "model": "GLC",
+      "condition": "new",
+      "price": 86309.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Mercedes-Benz GLC 300 4matic Suvin Victoria",
+      "vin": "W1NKM4HB0VF657923",
+      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/efe3a5c46605.html",
+      "year": 2027,
+      "make": "Mercedes-Benz",
+      "model": "GLC",
+      "condition": "new",
+      "price": 83809.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Mercedes-Benz GLC 300 4matic Suvin Victoria",
+      "vin": "W1NKM4HB5VF668190",
+      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/c41147801082.html",
+      "year": 2027,
+      "make": "Mercedes-Benz",
+      "model": "GLC",
+      "condition": "new",
+      "price": 82509.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Mercedes-Benz GLC 300 4matic Coupein Victoria",
+      "vin": "W1NKJ4HBXVF672521",
+      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/9eca125de6e8.html",
+      "year": 2027,
+      "make": "Mercedes-Benz",
+      "model": "GLC",
+      "condition": "new",
+      "price": 83341.0,
       "price_currency": "CAD"
     }
   ]
