@@ -1,6 +1,6 @@
 {
   "dealership": "Three Point Motors",
-  "generated_at": "2026-11-17T10:49:23",
+  "generated_at": "2026-11-18T01:15:15",
   "vehicle_count": 75,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -14,11 +14,27 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Audi S7 2018 for salein Victoria",
+      "vin": "WAUWFAFCXJN036196",
+      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/used/a7a366ef4d70.html",
+      "condition": "used",
+      "price": 42900.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Audi A5 2019 for salein Victoria",
       "vin": "WAUBNCF50KA078433",
       "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/used/ed1772f123c6.html",
       "condition": "used",
       "price": 32900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford Ranger 2021 for salein Victoria",
+      "vin": "1FTER4FH8MLD26357",
+      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/used/0a894ea20aa2.html",
+      "condition": "used",
+      "price": 28800.0,
       "price_currency": "CAD"
     },
     {
@@ -59,6 +75,30 @@
       "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/used/13f3215fca70.html",
       "condition": "used",
       "price": 42900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "GMC Sierra 1500 2025 for salein Victoria",
+      "vin": "3GTUUFEL5SG177931",
+      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/used/e03bb106b63a.html",
+      "condition": "used",
+      "price": 76900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM 3500 2026 for salein Victoria",
+      "vin": "3C63R3DL0TG186185",
+      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/used/71932f168f37.html",
+      "condition": "used",
+      "price": 93900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM ProMaster Cargo Van 2026 for salein Victoria",
+      "vin": "3C6MRVXG9TE165085",
+      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/used/b6b924d7ddd9.html",
+      "condition": "used",
+      "price": 66500.0,
       "price_currency": "CAD"
     },
     {
@@ -113,18 +153,7 @@
       "make": "Mercedes-Benz",
       "model": "S 63 AMG 4matic Coupe",
       "condition": "used",
-      "price": 92900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Audi S7 ",
-      "vin": "WAUWFAFCXJN036196",
-      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/used/a7a366ef4d70.html",
-      "year": 2018,
-      "make": "Audi",
-      "model": "S7",
-      "condition": "used",
-      "price": 42900.0,
+      "price": 89900.0,
       "price_currency": "CAD"
     },
     {
@@ -172,17 +201,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Ford Ranger ",
-      "vin": "1FTER4FH8MLD26357",
-      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/used/0a894ea20aa2.html",
-      "year": 2021,
-      "make": "Ford",
-      "model": "Ranger",
-      "condition": "used",
-      "price": 28800.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2021 Mercedes-Benz GLC 300 4matic Suvin Victoria",
       "vin": "W1N0G8EB9MV319533",
       "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/used/ce7866759336.html",
@@ -190,7 +208,7 @@
       "make": "Mercedes-Benz",
       "model": "GLC",
       "condition": "used",
-      "price": 36500.0,
+      "price": 36900.0,
       "price_currency": "CAD"
     },
     {
@@ -315,17 +333,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 GMC Sierra 1500 ",
-      "vin": "3GTUUFEL5SG177931",
-      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/used/e03bb106b63a.html",
-      "year": 2025,
-      "make": "GMC",
-      "model": "Sierra 1500",
-      "condition": "used",
-      "price": 76900.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025 Mercedes-Benz CLE 300 4matic Cabriolet Awdin Victoria",
       "vin": "W1KMK4HBXSF068773",
       "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/used/0f312e626ffa.html",
@@ -355,7 +362,7 @@
       "make": "Mercedes-Benz",
       "model": "GLA",
       "condition": "used",
-      "price": 52800.0,
+      "price": 49900.0,
       "price_currency": "CAD"
     },
     {
@@ -366,7 +373,7 @@
       "make": "Mercedes-Benz",
       "model": "GLC",
       "condition": "used",
-      "price": 78900.0,
+      "price": 77900.0,
       "price_currency": "CAD"
     },
     {
@@ -686,28 +693,6 @@
       "model": "Sprinter",
       "condition": "new",
       "price": 87473.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 RAM 3500 ",
-      "vin": "3C63R3DL0TG186185",
-      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/used/71932f168f37.html",
-      "year": 2026,
-      "make": "RAM",
-      "model": "3500",
-      "condition": "used",
-      "price": 93900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 RAM ProMaster Cargo Van ",
-      "vin": "3C6MRVXG9TE165085",
-      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/used/b6b924d7ddd9.html",
-      "year": 2026,
-      "make": "RAM",
-      "model": "ProMaster",
-      "condition": "used",
-      "price": 66500.0,
       "price_currency": "CAD"
     },
     {
