@@ -1,6 +1,6 @@
 {
   "dealership": "Three Point Motors",
-  "generated_at": "2026-11-18T10:29:26",
+  "generated_at": "2026-11-18T10:44:44",
   "vehicle_count": 75,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -586,6 +586,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 Mercedes-Benz GLC 300 4matic Suvin Victoria",
+      "vin": "W1NKM4HBXTF579941",
+      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/46d3226e9a00.html",
+      "year": 2026,
+      "make": "Mercedes-Benz",
+      "model": "GLC",
+      "condition": "new",
+      "price": 78791.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "New 2026 Mercedes-Benz Sprinter 2500 High Roof I4 Diesel 144\"in Victoria",
       "vin": "W1W4KBHY6TP874743",
       "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/a074859dd605.html",
@@ -604,7 +615,7 @@
       "make": "Mercedes-Benz",
       "model": "Sprinter",
       "condition": "new",
-      "price": 89640.0,
+      "price": 83140.0,
       "price_currency": "CAD"
     },
     {
@@ -781,17 +792,6 @@
       "model": "GLC",
       "condition": "new",
       "price": 86541.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Mercedes-Benz GLC 350e 4matic Suvin Victoria",
-      "vin": "W1NKM5GB7VF665704",
-      "url": "https://willyml1979-dotcom.github.io/three-point-motors-mirror/new/45319c5d185a.html",
-      "year": 2027,
-      "make": "Mercedes-Benz",
-      "model": "GLC",
-      "condition": "new",
-      "price": 90941.0,
       "price_currency": "CAD"
     }
   ]
